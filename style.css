@@ -1,0 +1,30 @@
+html {
+  scroll-behavior: smooth;
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+#projects {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.top {
+  position: fixed;
+  width: 40px;
+  height: 40px;
+  background: skyblue;
+  bottom: 40px;
+  right: 50px;
+  text-decoration: none;
+  text-align: center;
+  line-height: 40px;
+  color: white;
+  font-size: 40px;
+  border-radius: 8px 8px 8px 8px;
+}
